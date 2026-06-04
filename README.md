@@ -19,37 +19,6 @@ This capstone project evaluates three hospital candidates on behalf of a fiction
 **Recommendation:** **Greenfield General Hospital (GGH)** — Weighted Score: 7.23/10
 
 ---
-
-## Repository Structure
-
-```
-northbridge-investment-case/
-│
-├── sql/
-│   ├── ech_cleaning.sql              # ECH data cleaning script
-│   ├── ggh_cleaning.sql              # GGH data cleaning script
-│   ├── rmc_cleaning.sql              # RMC data cleaning script
-│   ├── hospitals_combined.sql        # UNION ALL script to combine all three hospitals
-│   └── metric_derivation.sql         # SQL queries for all 18 derived metrics
-│
-├── data/
-│   └── hospitals_combined.csv        # Final clean dataset (10,900 rows, 39 columns)
-│
-├── excel/
-│   └── NorthBridge_Investment_Scorecard.xlsx   # Weighted investment scorecard
-│
-├── powerbi/
-│   └── NorthBridge_Investment_Dashboard.pbix   # Power BI dashboard (4 pages)
-│
-├── presentation/
-│   └── NorthBridge_Investment_Presentation.pptx  # 11-slide PowerPoint presentation
-│
-├── recommendation/
-│   └── NorthBridge_Investment_Recommendation.docx  # 1-2 page written recommendation
-│
-└── README.md
-```
-
 ---
 
 ## Analytical Pipeline
