@@ -151,16 +151,20 @@ Each hospital was scored 1–10 per dimension using min-max scaling, then weight
 ## Dashboard Preview
 
 ### Page 1 — Executive Overview
-*Screenshot to be added*
+<img width="1235" height="683" alt="Page 1 - EXECUTIVE OVERVIEW" src="https://github.com/user-attachments/assets/06ba7cb0-a82e-4f73-abb7-a2cad76e7713" />
+
 
 ### Page 2 — Financial Performance
-*Screenshot to be added*
+<img width="1216" height="675" alt="Page 2 - FINANCIAL PERFORMANCE" src="https://github.com/user-attachments/assets/91e2b4ca-ec21-46cf-accf-4e47d7cb0567" />
+
 
 ### Page 3 — Clinical & Operational Performance
-*Screenshot to be added*
+<img width="1225" height="680" alt="Page 3 - CLINICAL   OPERATIONAL PERFORMANCE" src="https://github.com/user-attachments/assets/6e8a7727-80bc-410a-a324-61ca303c6748" />
+
 
 ### Page 4 — Experience & Growth
-*Screenshot to be added*
+<img width="1214" height="673" alt="Page 4 - EXPERIENCE   GROWTH" src="https://github.com/user-attachments/assets/18dd872b-8332-426a-8839-d95ef12e22ab" />
+
 
 ---
 
